@@ -1,4 +1,4 @@
-#### Difference between Web Server Programming Java, 2021 and full stack open mooc
+## Difference between Web Server Programming Java, 2021 and full stack open mooc
 - Both courses are high-quality, free, massive open online courses (MOOCs) offered by the University of Helsinki. The fundamental difference lies in their scope and tech stacks: Web Server Programming is a backend-only course specifically teaching Java, while Full Stack Open is an end-to-end modern JavaScript course.
 ### 1. Technology Stack
 - **Web Server Programming Java (2021):** Focuses strictly on backend development using the Java ecosystem. It teaches foundational web principles (HTTP, DNS) and builds backend functionality, usually utilizing Spring Boot and databases.
